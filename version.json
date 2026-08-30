@@ -1,7 +1,7 @@
 {
-  "minVersionCode": 15,
-  "latestVersionCode": 15,
-  "forceUpdate": true,
+  "minVersionCode": 17,
+  "latestVersionCode": 17,
+  "forceUpdate": false,
   "updateUrl": "https://play.google.com/store/apps/details?id=rsngl.ezanvakti",
   "title": "Güncelleme gerekli",
   "message": "Uygulamayı kullanmaya devam etmek için yeni sürüme güncelleyin."
